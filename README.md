@@ -1,3 +1,7 @@
+# View the full tutorial on Youtube
+
+Watch my step by step tutorial on how I made this site here https://youtu.be/GlROncAX4XI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
