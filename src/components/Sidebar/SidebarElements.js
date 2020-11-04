@@ -53,7 +53,6 @@ export const SidebarLink = styled(Link)`
   text-decoration: none;
   list-style: none;
   transition: 0.2s ease-in-out;
-  text-decoration: none;
   color: #000;
   cursor: pointer;
 
